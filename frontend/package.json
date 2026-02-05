@@ -56,7 +56,7 @@
   "main": "src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Saifullah-dev/react-file-manager.git"
+    "url": "git+https://github.com/pbrtrd/react-file-manager.git"
   },
   "keywords": [
     "react",
@@ -67,7 +67,7 @@
   "author": "Saifullah Zubair",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Saifullah-dev/react-file-manager/issues"
+    "url": "https://github.com/pbrtrd/react-file-manager/issues"
   },
-  "homepage": "https://github.com/Saifullah-dev/react-file-manager#readme"
+  "homepage": "https://github.com/pbrtrd/react-file-manager#readme"
 }
